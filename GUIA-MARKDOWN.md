@@ -287,26 +287,3 @@ Convertir imagen de modo oscuro a modo claro usando [ffmpeg](https://www.ffmpeg.
 ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
 ```
 ````
-
----
-
-## 🎉 ¡Completado!
-
-Lo aprendido:
-
-- ✅ Agregar encabezados para organizar contenido
-- ✅ Crear listas de tareas para planificar
-- ✅ Guardar fragmentos de código para uso futuro
-- ✅ Agregar imágenes para mejorar la presentación
-- ✅ Crear posts completos usando sintaxis Markdown
-
-**Próximos pasos:**
-
-- Toma otro ejercicio de GitHub Skills
-- Continúa con el ejercicio de GitHub Pages
-- Aprende más sobre Markdown avanzado
-- Contribuye a proyectos open source
-
----
-
-_📅 Creado: Agosto 2025 | 🔄 Última actualización: Agosto 6, 2025_
